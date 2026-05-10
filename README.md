@@ -74,12 +74,15 @@ This ranking validates that the model is learning clinically meaningful patterns
 ## References
 
 [1] Nuttall, F. Q. (2015). Body mass index: obesity, BMI, and health: a critical review. Nutrition today, 50(3), 117-128.
+
 [2] Beard, J. R., Officer, A. M., & Cassels, A. K. (2016). The world report on ageing and health. The Gerontologist, 56(Suppl_2), S163-S166.
 
 
 ## Author
 
-Cem Cakmak 
+Cem Cakmak
+
 https://github.com/Geminiay
+
 https://www.linkedin.com/in/cem-çakmak-56b413290/
 
